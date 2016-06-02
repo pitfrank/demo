@@ -1,0 +1,2 @@
+Este repositiorio es demostrativo
+sirve para ilustrar el uso de Git y Github
